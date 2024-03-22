@@ -22,3 +22,7 @@ The created information package ensures data consistency and enables analysis. T
 
 ## Outcome and Significance
 The overall outcome of the project is the creation of a robust and reliable tool for analyzing legislators' votes at various levels of government in Slovakia. This project has the potential to provide valuable information for political analysis, decision-making, and transparency in government processes.
+
+## Source code
+If you want to know more about project, please contact me.
+
